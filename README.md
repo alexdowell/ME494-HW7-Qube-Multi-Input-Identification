@@ -87,7 +87,7 @@ Ensure MATLAB is installed before running the scripts. No additional toolboxes a
   - Evaluation of model performance before and after weight removal  
 
 ## Contributions  
-This repository is intended for academic research and educational use. Contributions and modifications are welcome.  
+This repository is intended for academic research and educational use. Contributions are welcome.  
 
 ## License  
 This project is open for research and educational purposes.  
